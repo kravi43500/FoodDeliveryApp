@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/MeghadootElectronics/static/js/main.d681b4eb.chunk.js",
+    "main.js.map": "/MeghadootElectronics/static/js/main.d681b4eb.chunk.js.map",
+    "runtime-main.js": "/MeghadootElectronics/static/js/runtime-main.913030ad.js",
+    "runtime-main.js.map": "/MeghadootElectronics/static/js/runtime-main.913030ad.js.map",
+    "static/js/2.05f23e24.chunk.js": "/MeghadootElectronics/static/js/2.05f23e24.chunk.js",
+    "static/js/2.05f23e24.chunk.js.map": "/MeghadootElectronics/static/js/2.05f23e24.chunk.js.map",
+    "index.html": "/MeghadootElectronics/index.html",
+    "precache-manifest.9f287e9fbc7f0f1af7663304617e7326.js": "/MeghadootElectronics/precache-manifest.9f287e9fbc7f0f1af7663304617e7326.js",
+    "service-worker.js": "/MeghadootElectronics/service-worker.js",
+    "static/js/2.05f23e24.chunk.js.LICENSE.txt": "/MeghadootElectronics/static/js/2.05f23e24.chunk.js.LICENSE.txt",
+    "static/media/commerce.png": "/MeghadootElectronics/static/media/commerce.422fec10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.913030ad.js",
+    "static/js/2.05f23e24.chunk.js",
+    "static/js/main.d681b4eb.chunk.js"
+  ]
+}
