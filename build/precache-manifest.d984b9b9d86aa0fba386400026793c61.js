@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "711aec3b84029a223aafb27ccbdd9b9d",
+    "revision": "0e115944f40cd25163b231a0f860cf91",
     "url": "/MeghadootElectronics/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MeghadootElectronics/static/js/2.05f23e24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1dc7232b87068c1bcb2",
-    "url": "/MeghadootElectronics/static/js/main.d681b4eb.chunk.js"
+    "revision": "cb9fef904c220de6c9e5",
+    "url": "/MeghadootElectronics/static/js/main.e14b65fd.chunk.js"
   },
   {
     "revision": "dafcc519ee5a8a21ab27",
